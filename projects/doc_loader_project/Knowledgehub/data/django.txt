@@ -1,0 +1,4 @@
+Django is a high-level Python web framework.
+It helps developers build secure and scalable web applications.
+Django follows the Model-View-Template (MVT) architecture.
+It includes built-in features like authentication, an admin panel, and ORM support.

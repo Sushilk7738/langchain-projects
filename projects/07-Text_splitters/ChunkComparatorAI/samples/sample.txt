@@ -1,0 +1,9 @@
+Python is a high-level programming language.
+
+It supports Object-Oriented Programming.
+
+Python is widely used in Artificial Intelligence.
+
+FastAPI is a modern Python framework.
+
+Django is a batteries-included web framework.
